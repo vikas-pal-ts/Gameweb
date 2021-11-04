@@ -3,7 +3,7 @@
 I'm not much good in ui designing that's why i'm doing practice
 if you want me recommend me something you can connect with me on linkedin (www.linkedin.com/in/vikas-pal-ts)
 
-![Alt text](/../Gameweb/screenshots/1-1.png?raw=true "Screenshots")
+![Alt text](https://github.com/vikas-pal-ts/Gameweb/blob/main/screenshots/1-1.png?raw=true "Screenshots")
 
 ### Feel Free To contribute #############
 
